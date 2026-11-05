@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Chemical Structures",
+    "description": "Turns SMILES into molecular structure diagrams rendered directly in the conversation."
+  }
+}
