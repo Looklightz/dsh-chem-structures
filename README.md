@@ -36,7 +36,7 @@
 3. 在「包名或地址」里粘贴仓库地址：
 
    ```
-   https://github.com/你的用户名/dsh-chem-structures
+   https://github.com/Looklightz/dsh-chem-structures
    ```
 
 4. 点「**安装**」，等待完成提示。
