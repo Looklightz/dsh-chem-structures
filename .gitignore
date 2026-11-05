@@ -1,0 +1,16 @@
+# Dependencies (installed by the plugin manager, never committed)
+node_modules/
+
+# Generated figures (they live in the *workspace*, not in this package,
+# but ignore them here too in case someone runs the tools locally)
+chem-drawings/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+pnpm-debug.log*
+npm-debug.log*

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Chemical structure">
+  <rect width="64" height="64" rx="14" fill="#0F172A"/>
+  <g fill="none" stroke="#7DD3FC" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M32 12 49.3 22v20L32 52 14.7 42V22Z"/>
+    <circle cx="32" cy="32" r="7.2" stroke="#38BDF8"/>
+  </g>
+  <circle cx="49.3" cy="22" r="3.2" fill="#F87171"/>
+  <circle cx="14.7" cy="42" r="3.2" fill="#FBBF24"/>
+</svg>

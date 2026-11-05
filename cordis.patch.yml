@@ -1,0 +1,3 @@
+- insert:
+    - id: chem-structures
+      name: '@local/chem-structures'
