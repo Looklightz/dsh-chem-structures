@@ -1,6 +1,8 @@
 # 化学结构式 · dsh-chem-structures
 
-> 让 DSH 在**回答正文**里直接画出分子结构式和反应方程式。你说「画一下布洛芬」，回答里就出现结构图，而不是躺在工具日志里。
+> 这个Deepseek Harness插件完全由AI制作。
+
+本插件可以让 DSH 在**回答正文**里直接画出分子结构式和反应方程式。
 
 ![结构式示例：α-D-葡萄糖](docs/preview-structure.png)
 
