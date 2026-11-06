@@ -1,7 +1,7 @@
 {
   "name": "dsh-chem-structures",
-  "version": "1.0.0",
-  "description": "Draws chemical structures and reaction equations as figures inside the DSH answer body.",
+  "version": "1.1.1",
+  "description": "Draws chemical structures, stereochemistry, reaction equations and electron-pushing mechanisms inside the DSH answer body.",
   "keywords": [
     "dsh",
     "dsh-plugin",
